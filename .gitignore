@@ -1,0 +1,41 @@
+# Build artifacts
+bin/
+obj/
+
+# Visual Studio / VSCode
+.vscode/
+.vs/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# .NET generated files
+*.dll
+*.exe
+*.pdb
+
+# Temporary files
+*.tmp
+*.temp
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# NuGet packages
+*.nupkg
+packages/
+.nuget/
+
+# Rider / JetBrains
+.idea/
+
+# Publish output
+publish/
+
+# Auto-generated large CSV files
+input_large.csv
